@@ -1,0 +1,113 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4819778 */
+  src: url('iconfont.woff2?t=1744505897188') format('woff2');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-camera:before {
+  content: "\e620";
+}
+
+.icon-message-comments:before {
+  content: "\e82e";
+}
+
+.icon-favorites-fill:before {
+  content: "\e839";
+}
+
+.icon-favorites:before {
+  content: "\e83a";
+}
+
+.icon-good-fill:before {
+  content: "\e83b";
+}
+
+.icon-good:before {
+  content: "\e83c";
+}
+
+.icon-user:before {
+  content: "\e7ae";
+}
+
+.icon-heart:before {
+  content: "\e7df";
+}
+
+.icon-huizhang:before {
+  content: "\e60f";
+}
+
+.icon-huizhang1:before {
+  content: "\e6f0";
+}
+
+.icon-right:before {
+  content: "\e7eb";
+}
+
+.icon-whatsapp:before {
+  content: "\e739";
+}
+
+.icon-APP:before {
+  content: "\e655";
+}
+
+.icon-feedback:before {
+  content: "\e6fa";
+}
+
+.icon-feedback1:before {
+  content: "\e60e";
+}
+
+.icon-baocun:before {
+  content: "\e607";
+}
+
+.icon-search:before {
+  content: "\e606";
+}
+
+.icon-icon_facebook:before {
+  content: "\e632";
+}
+
+.icon-instagram-fill:before {
+  content: "\e88f";
+}
+
+.icon-cart:before {
+  content: "\e600";
+}
+
+.icon-circle-dot:before {
+  content: "\e601";
+}
+
+.icon-eye:before {
+  content: "\e602";
+}
+
+.icon-next:before {
+  content: "\e603";
+}
+
+.icon-notice:before {
+  content: "\e604";
+}
+
+.icon-triangle-d:before {
+  content: "\e605";
+}
+

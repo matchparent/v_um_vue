@@ -3,12 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "serve": "vue-cli-service serve --mode development",
+    "_build": "cross-env NODE_ENV=production vue-cli-service build --mode production",
+    "build": "vue-cli-service build --mode production"
   },
   "dependencies": {
+    "axios": "^1.8.4",
+    "element-plus": "^2.9.7",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
+    "vue3-scroll-seamless": "^1.0.6",
+    "vue3-seamless-scroll": "^3.0.2",
     "vuex": "^4.0.0"
   },
   "devDependencies": {
@@ -16,7 +21,8 @@
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "less": "^4.0.0",
-    "less-loader": "^8.0.0"
+    "less-loader": "^8.0.0",
+    "unplugin-auto-import": "^19.1.2"
   },
   "browserslist": [
     "> 1%",

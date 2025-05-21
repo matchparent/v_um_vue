@@ -1,0 +1,7 @@
+@import './base.css';
+
+/*定义全局变量*/
+:root {
+    --content-width: 1200px;
+    --main-red: #ff0f23
+}
