@@ -310,7 +310,7 @@ const oconfirm = () => {
 
             button {
                 display: inline-block;
-                width: 100px;
+                width: 150px;
                 background-color: var(--main-red);
                 color: white;
                 height: 50px;
