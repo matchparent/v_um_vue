@@ -1,19 +1,16 @@
 # v_um_vue
 
-## Project setup
-```
-npm install
-```
+Code of front-end of Urchin Mall. Resume project, developed by vue3.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Axios network requesting.
+Deployed on Vercel.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Pages include:
+* Home
+* Login
+* Profile(Order list/ Change password/ Address management/ Profile information)
+* Cart
+* Goods detail (Add to cart/ show comments)
+* Goods list 
+* Order confirm
+* Order pay
