@@ -14,3 +14,11 @@ Pages include:
 * Goods list 
 * Order confirm
 * Order pay
+
+Unimplemented functions:
+* Register
+* Add comment
+* Home page profile(Gold color area)
+
+
+Due to the fact that data and resources were provided by others, Chinese can be read. If this brings you any trouble, sorry on that.
